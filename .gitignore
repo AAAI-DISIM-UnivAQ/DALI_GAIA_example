@@ -1,7 +1,6 @@
 # DALI working folders & files
 
 conf/*.txt
-build/
 *.ple
 
 # Compiled Prolog files
@@ -38,5 +37,4 @@ build/
 Thumbs.db
 
 # Build/output directories
-/build/
 bin/
