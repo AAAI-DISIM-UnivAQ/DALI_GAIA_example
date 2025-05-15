@@ -5,7 +5,7 @@ Example of a DALI multi-agent system project designed according to the GAIA meth
 Title: __Multi-Agent System for Emergency Management in a Smart Building__
 
 ## Objective
-Design and implement a multi-agent system in the [DALI](https://github.com/AAAI-DISIM-UnivAQ/DALI) language for the detection and coordinated management of emergency events (e.g., fire, gas leak, earthquake) inside a smart building, following the **GAIA methodology**.
+Design and implement a multi-agent system in the [DALI](https://github.com/AAAI-DISIM-UnivAQ/DALI) language for the detection and coordinated management of emergency events (e.g., fire, gas leak, earthquake) inside a smart building, following the [**GAIA methodology**](https://link.springer.com/content/pdf/10.1023/A:1010071910869.pdf).
 
 ---
 
