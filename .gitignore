@@ -1,6 +1,6 @@
 # DALI working folders & files
 
-conf/
+conf/*.txt
 build/
 *.ple
 
