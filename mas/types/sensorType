@@ -1,0 +1,5 @@
+detect_smokeE :> alarmA(smoke).
+detect_gasE :> alarmA(gas).
+detect_earthquakeE :> alarmA(earthquake).
+
+alarmA(X) :> messageA(coordinator, send_message(alarm(X), Me)).
