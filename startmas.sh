@@ -66,7 +66,7 @@ echo "Port 3010 is now free, proceeding with DALI startup..."
 # Define paths and variables
 SICSTUS_HOME=/usr/local/sicstus4.6.0
 
-DALI_HOME="../.."
+DALI_HOME="../DALI"
 CORE_DIR="$DALI_HOME/src"
 COMMUNICATION_DIR="$DALI_HOME/src"
 EVENT_DIR="$DALI_HOME/src"
