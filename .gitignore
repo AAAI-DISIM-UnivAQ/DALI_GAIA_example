@@ -1,6 +1,6 @@
 # DALI working folders & files
 
-conf/*.txt
+conf/mas/
 work/*
 build/*.txt
 *.ple
