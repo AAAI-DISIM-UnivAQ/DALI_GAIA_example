@@ -1,7 +1,8 @@
 # DALI working folders & files
 
-conf/
-build/
+conf/mas/
+work/*
+build/*.txt
 *.ple
 
 # Compiled Prolog files
